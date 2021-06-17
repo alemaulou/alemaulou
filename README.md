@@ -1,5 +1,6 @@
 🏃 🚴 🧘‍♂️ 🏋 🧗. 
 🇮🇹 🇨🇳 🇺🇸 🏳️‍🌈. 
+
 🏡 SF. 
 
 - 👋 Hey! I'm Alessandro Lou. I am a Computer Science Educator, Recruiter, and aspiring Software Engineer!
