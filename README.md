@@ -6,11 +6,11 @@
 
 🏡 I currently reside in the beautiful city of San Francisco. 
 
-🌱 I have been working at an EdTech startup based for the past year, overseeing the Computer Science Instructor Recruitment Pipeline, hiring hundreds of instructors, and dabbling in some curriculum development.
+💻 I have been working at an EdTech startup based for the past year, overseeing the Computer Science Instructor Recruitment Pipeline, hiring hundreds of instructors, and dabbling in some curriculum development.
 
 🌱 I have worked several different educational roles, from tutoring, TA'ing at the University of Washington, and most instructing classrooms of highschoolers for the non-profit Girls Who Code.
 
-💞️ I have a deep love for coding and miss it. I am in the process of a career change into software development. 
+💞️ I have a deep love for coding, and miss it! I am in the process of a career change into software development. 
 
 Outside of tech, I enjoy to run, cycle, pracrtice yoga, lift, and climb! 🏃 🚴 🧘‍♂️ 🏋 🧗
 
