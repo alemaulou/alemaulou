@@ -2,7 +2,7 @@
 ### 🇮🇹 🇨🇳 🇺🇸 🏳️‍🌈
 
 
-👋 Hello there! I'm Alessandro. I am a Computer Science Educator, Recruiter, and aspiring Software Engineer.
+✌️ Hello there! I'm Alessandro. I am a Computer Science Educator, Recruiter, and aspiring Software Engineer.
 
 🏡 I currently reside in the beautiful city of San Francisco. 
 
