@@ -12,7 +12,7 @@
 
 💞️ I have a deep love for coding, and miss it! I am in the process of a career change into software development. 
 
-Outside of tech, I enjoy to run, cycle, pracrtice yoga, lift, and climb! 🏃 🚴 🧘‍♂️ 🏋 🧗
+🚴 Outside of tech, I enjoy to run, cycle, practice yoga, lift, and climb! 
 
 📫 Reach me: alessandro.lou@gmail.com
 
