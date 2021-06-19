@@ -14,7 +14,7 @@
 
 🚴 Outside of tech, I enjoy to run, cycle, practice yoga, lift, and climb! 
 
-📫 Reach me: alessandro.lou@gmail.com
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/alessandro-lou/)!
 
 <!---
 alemaulou/alemaulou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
