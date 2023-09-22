@@ -1,3 +1,4 @@
+
 ### Alessandro Lou 🇮🇹 🇨🇳 🇺🇸 🏳️‍🌈
 
 
@@ -13,44 +14,39 @@
 
 ------
 
-<h4 align="center"> Professional Experience </h4>
+<h3 align="center"> Professional Experience </h4>
 
 ------
 **Lead Computer Science Instructor** @ Google Code Next
-
-Oakland, CA
-2021 - Present
+*2021 - Present*
 * #1
 * #2
 
 
 **Lead Computer Science Instructor, Technical Recruiter** @ Girls Who Code
+*2019 - 2023*
+* 1
+* 2
 
-San Francisco, CA
-2019 - 2023
-*1
-*2
+**Computer Science Instructor, Operations** @ Juni Learning
+*2020 - 2021*
+* 1 
+* 2
 
-**Computer Science Instructor, Operations** @ Girls Who Code
+**Lead Teaching Assistant** @ University of Washington Information School
+*2019 - 2020*
+* 1
+* 2
+ 
+**Tutor, Workshop Facilitator** @ MESA, Seattle Central College: 
+*2016-2020*
+* 1
+* 2
 
-San Francisco, CA
-2020 - 2021
-*1
-*2
-
-**Lead TA** @ University of Washington Information School
-
-Seattle,  WA
-2019 - 2020
-*1
-*2
-
-
-
-* Juni Learning: Computer Science Instructor, Operations
-* queer.code();: Founder, Instructor
-* University of Washington Information School: TA
-* MESA, Seattle Central College: Tutor, Workshop Facilitator
+**Founder/Instructor Founder, Instructor** @ queer.code();
+*2019-2020*
+* 1
+* 2
 
 ## Projects (University of Washington Information School)
 * [C-Bike](https://github.com/alemaulou/CascadeBicycleClubCapstone) (University of Washington Information School Capstone Project/Internship)
@@ -58,8 +54,3 @@ Seattle,  WA
 * TrashCache (iOS Final Project)
 
 ## Sample Curriculum
-
-<!---
-alemaulou/alemaulou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
