@@ -21,7 +21,7 @@
 * MESA, Seattle Central College: Tutor, Workshop Facilitator
 
 ## Projects (University of Washington Information School)
-* C-Bike (University of Washington Information School Capstone Project/Internship)
+* [C-Bike](https://github.com/alemaulou/CascadeBicycleClubCapstone) (University of Washington Information School Capstone Project/Internship)
 * Plant Pharmacy (Software Development Course Final Project)
 * TrashCache (iOS Final Project)
 
