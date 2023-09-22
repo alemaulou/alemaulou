@@ -2,11 +2,11 @@
 ### 🇮🇹 🇨🇳 🇺🇸 🏳️‍🌈
 
 
-✌️ Hello there! I'm Alessandro. I am a Computer Science instructor and Yoga Instructor.
+✌️ Hello there! I'm Alessandro. I am a Computer Science Instructor, Yoga Instructor and aspiring Software Engineer.
 
 🏡 I currently reside in the beautiful city of San Francisco. 
 
-🌱 I work as a CS Coach for Google Code Next! (https://codenext.withgoogle.com/) 
+🌱 I work as a CS Instructor for Google Code Next! (https://codenext.withgoogle.com/) 
 
 🚴 Outside of tech and yoga, I enjoy to run, cycle, lift, and climb! 
 
