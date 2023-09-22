@@ -18,39 +18,53 @@
 
 ------
 **Lead Computer Science Instructor** @ Google Code Next
+
 *2021 - Present*
 * #1
 * #2
 
 
 **Lead Computer Science Instructor, Technical Recruiter** @ Girls Who Code
+
 *2019 - 2023*
 * 1
 * 2
 
 **Computer Science Instructor, Operations** @ Juni Learning
+
 *2020 - 2021*
 * 1 
 * 2
 
 **Lead Teaching Assistant** @ University of Washington Information School
+
 *2019 - 2020*
 * 1
 * 2
  
-**Tutor, Workshop Facilitator** @ MESA, Seattle Central College: 
+**Tutor, Workshop Facilitator** @ MESA, Seattle Central College 
+
 *2016-2020*
 * 1
 * 2
 
 **Founder/Instructor Founder, Instructor** @ queer.code();
+
 *2019-2020*
 * 1
 * 2
 
-## Projects (University of Washington Information School)
+------
+
+<h3 align="center"> Projects (University of Washington Information School) </h4>
+
+------
 * [C-Bike](https://github.com/alemaulou/CascadeBicycleClubCapstone) (University of Washington Information School Capstone Project/Internship)
 * Plant Pharmacy (Software Development Course Final Project)
 * TrashCache (iOS Final Project)
 
-## Sample Curriculum
+------
+
+<h3 align="center"> Sample Curriculum </h4>
+
+------
