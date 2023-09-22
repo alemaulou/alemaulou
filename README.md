@@ -2,13 +2,13 @@
 ### 🇮🇹 🇨🇳 🇺🇸 🏳️‍🌈
 
 
-✌️ Hello there! I'm Alessandro. I am a Computer Science Educator and Curriculum Developer.
+✌️ Hello there! I'm Alessandro. I am a Computer Science instructor and Yoga Instructor.
 
 🏡 I currently reside in the beautiful city of San Francisco. 
 
-🌱 I work as a CS Coach for Google's Code Next!
+🌱 I work as a CS Coach for Google Code Next! (https://codenext.withgoogle.com/) 
 
-🚴 Outside of tech, I enjoy to run, cycle, practice yoga, lift, and climb! 
+🚴 Outside of tech and yoga, I enjoy to run, cycle, lift, and climb! 
 
 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/alessandro-lou/)!
 
