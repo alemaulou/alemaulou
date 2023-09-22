@@ -1,5 +1,4 @@
-### Alessandro Lou
-### 🇮🇹 🇨🇳 🇺🇸 🏳️‍🌈
+### Alessandro Lou 🇮🇹 🇨🇳 🇺🇸 🏳️‍🌈
 
 
 ✌️ Hello there! I'm Alessandro. I am a Computer Science Instructor, Yoga Instructor and aspiring Software Engineer.
