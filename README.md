@@ -6,7 +6,7 @@
 
 🏡 I currently reside in the beautiful city of San Francisco. 
 
-🌱 I work as a Lead CS Instructor @ Google Code Next! (https://codenext.withgoogle.com) and a Yoga Instructor @ CorePower Yoga!
+🌱 I work as a Lead CS Instructor @ Google Code Next! (https://codenext.withgoogle.com)
 
 🚴 Outside of tech and yoga, I enjoy to run, cycle, lift, and climb! 
 
