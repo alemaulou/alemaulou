@@ -17,6 +17,8 @@
 <h3 align="center">👨‍💻💼 Professional Experience 🌟✨ </h4>
 
 ------
+Combining my passion for empowering individuals with my love for computer science, I've consistently taken on roles that involve teaching, mentorship, and creating inclusive learning environments. This blend of experiences has fueled my desire to transition into software engineering, where I can continue utilizing technology to make a meaningful impact on people's lives.
+
 **Lead Computer Science Instructor** @ [Google Code Next](https://codenext.withgoogle.com)<br>
 *2021 - Present*
 * Led a comprehensive, highly technical full-stack development program for 3 cohorts (15+ students each), involving curriculum design, team management, and hands-on instruction. Standardized and created 20+ essential documents to facilitate seamless collaboration among 50+ volunteers and staff. Refined the master curriculum to suit individual site requirements through feedback loops and optimized materials, and implemented innovative technical assessment tools, enhancing candidate evaluation accuracy with automated cross-site rubrics.
