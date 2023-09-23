@@ -19,7 +19,8 @@
 ------
 **Lead Computer Science Instructor** @ Google Code Next
 *2021 - Present*
-* Led a comprehensive, highly technical full-stack development program for 3 cohorts (15+ students each), involving curriculum design, team management, and hands-on instruction. Standardized and created 20+ essential documents to facilitate seamless collaboration among 50+ volunteers and staff. Additionally, refined the master curriculum to suit individual site requirements through feedback loops and optimized materials, and implemented innovative technical assessment tools, enhancing candidate evaluation accuracy with automated cross-site rubrics.
+* Led a comprehensive, highly technical full-stack development program for 3 cohorts (15+ students each), involving curriculum design, team management, and hands-on instruction. Standardized and created 20+ essential documents to facilitate seamless collaboration among 50+ volunteers and staff. R
+* Refined the master curriculum to suit individual site requirements through feedback loops and optimized materials, and implemented innovative technical assessment tools, enhancing candidate evaluation accuracy with automated cross-site rubrics.
 
 
 **Lead Computer Science Instructor, Technical Recruiter** @ Girls Who Code
