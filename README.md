@@ -19,35 +19,28 @@
 ------
 **Lead Computer Science Instructor** @ Google Code Next
 *2021 - Present*
-* #1
-* #2
+* Led a comprehensive, highly technical full-stack development program for 3 cohorts (15+ students each), involving curriculum design, team management, and hands-on instruction. Standardized and created 20+ essential documents to facilitate seamless collaboration among 50+ volunteers and staff. Additionally, refined the master curriculum to suit individual site requirements through feedback loops and optimized materials, and implemented innovative technical assessment tools, enhancing candidate evaluation accuracy with automated cross-site rubrics.
 
 
 **Lead Computer Science Instructor, Technical Recruiter** @ Girls Who Code
 *2019 - 2023*
-* 1
-* 2
+* Orchestrated successful hiring of 100+ CS Instructors for the GWC Summer Immersion Program, managed interviews, and effectively led instruction for high school girls in Summer 2019 and virtually in Summer 2020, evaluating proficiency in various programming languages and witnessing a 60% transition to CS degrees post-graduation.
 
 **Computer Science Instructor, Operations** @ Juni Learning
 *2020 - 2021*
-* 1 
-* 2
+* Directed the CS Instructor hiring process end-to-end, leveraging data insights with R to reduce interview cancellations, organized virtual career fairs, initiated a Campus Ambassadors program, spearheaded interviewer team training, and optimized processes by transitioning the application tracking system, all while actively instructing students in Python, Scratch, and JavaScript fundamentals.
 
 **Lead Teaching Assistant** @ University of Washington Information School
-
 *2019 - 2020*
-* 1
-* 2
+* Povided mentorship to teaching assistants and facilitated introductory Data Science and Relational Database courses, enhancing student comprehension in data-related concepts and technologies.
+
+* **Founder/Instructor Founder, Instructor** @ [https://alemaulou.github.io/queercode/](queer.code());
+*2019*
+* Founded and facilitated queer.code();, an 8-week meetup empowering non-CS major LGBTQ+ students with Java and web design fundamentals, fostering an inclusive learning environment at a local LGBTQ+ coffee shop, achieving a 5:1 mentee-to-mentor ratio, and actively collaborating with co-facilitators and mentors.
  
 **Tutor, Workshop Facilitator** @ MESA, Seattle Central College 
 *2016-2020*
-* 1
-* 2
-
-**Founder/Instructor Founder, Instructor** @ queer.code();
-*2019-2020*
-* 1
-* 2
+* Conducted weekly workshops in essential Computer Science topics, enhancing student attendance and retention by 200% YTD, as part of the MESA program supporting BiPOC college students in STEM.
 
 ------
 
@@ -58,7 +51,7 @@ During my time at the University of Washington, I pursued a degree in [Informati
 * [C-Bike](https://github.com/alemaulou/CascadeBicycleClubCapstone) (*University of Washington Information School Capstone Project/Internship*)<br>
 As a the engineering lead the UW Informatics senior capstone project sponsored by Cascade Bicycle Club, I played a central role in developing C-Bike. Responsible for both backend and frontend, including detailed database modeling, I focused on process automation using a robust relational database through Django. This resulted in streamlined business operations, improved data integrity, and the creation of a user-friendly dashboard with an interactive map to enhance the user experience, aligning with Cascade Bicycle Clubs's automation objectives.
 * [Plant Pharmacy](https://github.com/Plant-Pharmacy/Main) (*Software Development Course Final Project*)<br>
-* In a collaborative effort within a software development course, our team utilized Python, Django, and JavaScript to build a user-friendly platform. Incorporating machine learning models through Tensorflow and Keras, we enabled analysis of plant images, delivering data-driven insights into plant health conditions. This dual-front approach involved backend and frontend development, facilitating swift identification of plant ailments and encouraging sustainable plant care practices for a more environmentally conscious community.
+In a collaborative effort within a software development course, our team utilized Python, Django, and JavaScript to build a user-friendly platform. Incorporating machine learning models through Tensorflow and Keras, we enabled analysis of plant images, delivering data-driven insights into plant health conditions. This dual-front approach involved backend and frontend development, facilitating swift identification of plant ailments and encouraging sustainable plant care practices for a more environmentally conscious community.
 * [Trash Cache](https://github.com/oazeemi/TrashCache) (*Android Dev Course Final Project*)<br>
 As part of an Android development course, I collaborated within a team, focusing on Kotlin to contribute to the development of TrashCache. My role involved aiding in API implementation and working on the Android app's frontend. TrashCache integrates ML models to assess item recyclability through image analysis. We aimed to simplify recycling choices, encourage responsible disposal, and make strides towards a more sustainable future.
 
