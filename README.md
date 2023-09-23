@@ -2,7 +2,7 @@
 ### Alessandro Lou 🇮🇹 🇨🇳 🇺🇸 🏳️‍🌈
 
 
-<small>✌️ Hello there! I'm Alessandro. I am a Computer Science Instructor, Yoga Instructor and aspiring Software Engineer.</small>
+✌️ Hello there! I'm Alessandro. I am a Computer Science Instructor, Yoga Instructor and aspiring Software Engineer.
 
 🏡 I currently reside in San Francisco. 
 
@@ -35,7 +35,7 @@
 *2019 - 2020*
 * Povided mentorship to teaching assistants and facilitated introductory Data Science and Relational Database courses, enhancing student comprehension in data-related concepts and technologies.
 
-* **Founder/Instructor Founder, Instructor** @ [https://alemaulou.github.io/queercode/](queer.code());
+**Founder/Instructor Founder, Instructor** @ [queer.code();](https://alemaulou.github.io/queercode)
 *2019*
 * Founded and facilitated queer.code();, an 8-week meetup empowering non-CS major LGBTQ+ students with Java and web design fundamentals, fostering an inclusive learning environment at a local LGBTQ+ coffee shop, achieving a 5:1 mentee-to-mentor ratio, and actively collaborating with co-facilitators and mentors.
  
