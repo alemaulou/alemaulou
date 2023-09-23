@@ -68,6 +68,13 @@ Throughout my extensive experience as a Computer Science Instructor, I've been d
   A mini-lesson on Linked Lists I put together, showcasing my custom illustrative graphics modeling the concept. The lesson involves engaging coding challenges and a live student interaction demo, aiming to foster active participation and a clear grasp of this foundational data structure.
 * [Variables + Conditionals](https://docs.google.com/presentation/d/1wZ8tLKpxPuPRRwBVwvY6whiT41QKCUtV1IswBCdR_Xg/edit#slide=id.g1034e2318fa_1_400) (***Target Audience:** Freshman in high school*)<Br> A mini-lesson I created to simplify concepts of programming languages, Python, variables, and conditional statements, demonstrated through a fun Rock, Paper, Scissors game.
 
+  ------
+
+<h3 align="center">📚🎓 Education 📊🔬</h4>
+
+------
+* Bachelor of Science in Informatics | 2020 | University of Washington
+
 ------
 
 <h3 align="center">🏆🌟 Awards 🏅🎓</h4>
