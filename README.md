@@ -2,7 +2,7 @@
 ### Alessandro Lou 🇮🇹 🇨🇳 🇺🇸 🏳️‍🌈
 
 
-✌️ Hello there! I'm Alessandro. I am a Computer Science Instructor, Yoga Instructor and aspiring Software Engineer.
+✌️ Hello there! I'm Alessandro. I am a Computer Science Instructor, Yoga Instructor (RYT-200) and aspiring Software Engineer.
 
 🏡 I currently reside in San Francisco. 
 
@@ -67,3 +67,13 @@ Throughout my extensive experience as a Computer Science Instructor, I've been d
 * [Linked Lists](https://docs.google.com/presentation/d/1XpfXXrCHUQhT8n7LhkB-TPOSynedIpESBQUl4mh0mac/edit?usp=sharing) (***Target Audience:** College students*)<br>
   A mini-lesson on Linked Lists I put together, showcasing my custom illustrative graphics modeling the concept. The lesson involves engaging coding challenges and a live student interaction demo, aiming to foster active participation and a clear grasp of this foundational data structure.
 * [Variables + Conditionals](https://docs.google.com/presentation/d/1wZ8tLKpxPuPRRwBVwvY6whiT41QKCUtV1IswBCdR_Xg/edit#slide=id.g1034e2318fa_1_400) (***Target Audience:** Freshman in high school*)<Br> A mini-lesson I created to simplify concepts of programming languages, Python, variables, and conditional statements, demonstrated through a fun Rock, Paper, Scissors game.
+
+------
+
+<h3 align="center">🏆🌟 Awards 🏅🎓</h4>
+
+------
+* Microsoft Scholar (2018, 2019)
+* GSBA Scholar (2016, 2017)
+* Boeing Endowed Scholar (2016)
+* Pride Foundation Scholar (2016, 2017)
