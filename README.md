@@ -6,7 +6,7 @@
 
 🏡 I currently reside in the beautiful city of San Francisco. 
 
-🌱 I work as a Lead CS Instructor @ Google Code Next! (https://codenext.withgoogle.com)
+🌱 I work as a Lead CS Instructor @ [Google Code Next](https://codenext.withgoogle.com)! 
 
 🚴 Outside of tech and yoga, I enjoy to run, cycle, lift, and climb! 
 
@@ -54,7 +54,7 @@
 <h3 align="center"> Projects (University of Washington Information School) </h4>
 
 ------
-During my time at the University of Washington, I pursued a degree in Informatics with a focus in software development! Informatics stood out as a fascinating blend of computer science and teamwork, which was very cool. The projects we tackled were all about collaboration, providing a great learning ground for coding in a team setup. Each project  I decided to work on had a worthy objective, be it supporting non-profits, boosting plant health, or handling waste responsibly. I feel a deep sense of gratitude for the opportunity to make a societal impact through coding and teamwork. 🙌
+During my time at the University of Washington, I pursued a degree in [Informatics](https://ischool.uw.edu/programs/informatics) with a focus in software development! Informatics stood out as a fascinating blend of computer science and teamwork, which was very cool. The projects we tackled were all about collaboration, providing a great learning ground for coding in a team setup. Each project  I decided to work on had a worthy objective, be it supporting non-profits, boosting plant health, or handling waste responsibly. I feel a deep sense of gratitude for the opportunity to make a societal impact through coding and teamwork. 🙌
 * [C-Bike](https://github.com/alemaulou/CascadeBicycleClubCapstone) (University of Washington Information School Capstone Project/Internship)
 * Plant Pharmacy (Software Development Course Final Project)
 * TrashCache (iOS Final Project)
