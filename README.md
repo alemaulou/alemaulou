@@ -53,7 +53,7 @@ Combining my passion for empowering individuals with my love for computer scienc
 
 ------
 
-<h3 align="center"> 💻🛠️ Projects (University of Washington Information School) 🏫🎓 </h4>
+<h3 align="center"> 💻🛠️ Relevant Projects 🏫🎓 </h4>
 
 ------
 During my time at the University of Washington, I pursued a degree in [Informatics](https://ischool.uw.edu/programs/informatics) with a focus in software development! Informatics stood out as a fascinating blend of computer science and teamwork, which was very cool. Almost all projects were group projects - providing a great learning ground for coding in a team setup. Each project I've decided to showcase on had a significant mission centered around social impact and community betterment, be it supporting a bike non-profit, boosting plant health, or handling waste responsibly. I feel a deep sense of gratitude for the opportunity to make a societal impact through coding and teamwork (maybe that's why I ended up in EdTech). 🙌
