@@ -17,7 +17,7 @@
 <h3 align="center">📚🎓 Education 📊🔬</h4>
 
 ------
-**Informatics Bachelor of Science **
+**Informatics Bachelor of Science**<br>
 _University of Washington, Seattle, WA_
 
 ------
