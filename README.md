@@ -36,7 +36,7 @@ Combining my passion for empowering individuals with my love for computer scienc
 *2019 - 2020*
 * Supported the instruction of Data Science and Relational Database courses at the University of Washington Information School.
 
-**Founder/Instructor Founder, Instructor** @ [queer.code();](https://alemaulou.github.io/queercode)<br>
+**Founder, Instructor** @ [queer.code();](https://alemaulou.github.io/queercode)<br>
 *2019*
 * Founded and facilitated queer.code();, an 8-week meetup empowering non-CS major LGBTQ+ students with Java and web design fundamentals, fostering an inclusive learning environment at a local LGBTQ+ coffee shop, achieving a 5:1 mentee-to-mentor ratio, and actively collaborating with co-facilitators and mentors.
  
