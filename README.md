@@ -4,7 +4,7 @@
 
 ✌️ Hello there! I'm Alessandro. I am a Computer Science Instructor, Yoga Instructor and aspiring Software Engineer.
 
-🏡 I currently reside in San Francisco. 
+🏡 I currently reside in San Francisco, California.
 
 🌱 I work as a Lead CS Instructor @ [Google Code Next](https://codenext.withgoogle.com)! 
 
