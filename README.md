@@ -35,7 +35,7 @@ Combining my passion for empowering individuals with my love for computer scienc
 *2019 - 2023*
 * Orchestrated successful hiring of 100+ CS Instructors for the GWC Summer Immersion Program, managed interviews, and effectively led instruction for high school girls in Summer 2019 and virtually in Summer 2020, evaluating proficiency in Scratch, Python, HTML, CSS, Javascript, and witnessing a 60% transition to CS degrees post-graduation.
 
-**Computer Science Instructor, Operations** @ [Juni Learning](https://junilearning.com/)<br>
+**Computer Science Instructor, Technical Recruiter** @ [Juni Learning](https://junilearning.com/)<br>
 *2020 - 2021*
 * Directed the CS Instructor hiring process end-to-end, leveraging data insights with R to reduce interview cancellations, organized virtual career fairs, initiated a Campus Ambassadors program, spearheaded interviewer team training, and optimized processes by transitioning the application tracking system, all while actively instructing students in Python, Scratch, and JavaScript fundamentals.
 
