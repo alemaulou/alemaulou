@@ -17,13 +17,13 @@
 <h3 align="center">👨‍💻💼 Professional Experience 🌟✨ </h4>
 
 ------
-**Lead Computer Science Instructor** @ Google Code Next
+**Lead Computer Science Instructor** @ [Google Code Next](https://codenext.withgoogle.com)
 *2021 - Present*
 * Led a comprehensive, highly technical full-stack development program for 3 cohorts (15+ students each), involving curriculum design, team management, and hands-on instruction. Standardized and created 20+ essential documents to facilitate seamless collaboration among 50+ volunteers and staff. R
 * Refined the master curriculum to suit individual site requirements through feedback loops and optimized materials, and implemented innovative technical assessment tools, enhancing candidate evaluation accuracy with automated cross-site rubrics.
 
 
-**Lead Computer Science Instructor, Technical Recruiter** @ Girls Who Code
+**Lead Computer Science Instructor, Technical Recruiter** @ [Girls Who Code](https://www.girlswhocode.com)
 *2019 - 2023*
 * Orchestrated successful hiring of 100+ CS Instructors for the GWC Summer Immersion Program, managed interviews, and effectively led instruction for high school girls in Summer 2019 and virtually in Summer 2020, evaluating proficiency in various programming languages and witnessing a 60% transition to CS degrees post-graduation.
 
