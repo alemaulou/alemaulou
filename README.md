@@ -26,19 +26,19 @@
 *2019 - 2023*
 * Orchestrated successful hiring of 100+ CS Instructors for the GWC Summer Immersion Program, managed interviews, and effectively led instruction for high school girls in Summer 2019 and virtually in Summer 2020, evaluating proficiency in various programming languages and witnessing a 60% transition to CS degrees post-graduation.
 
-**Computer Science Instructor, Operations** @ Juni Learning<br>
+**Computer Science Instructor, Operations** @ [Juni Learning](https://junilearning.com/)<br>
 *2020 - 2021*
 * Directed the CS Instructor hiring process end-to-end, leveraging data insights with R to reduce interview cancellations, organized virtual career fairs, initiated a Campus Ambassadors program, spearheaded interviewer team training, and optimized processes by transitioning the application tracking system, all while actively instructing students in Python, Scratch, and JavaScript fundamentals.
 
-**Lead Teaching Assistant** @ University of Washington Information School<br>
+**Teaching Assistant** @ [University of Washington Information School](https://ischool.uw.edu/)<br>
 *2019 - 2020*
-* Povided mentorship to teaching assistants and facilitated introductory Data Science and Relational Database courses, enhancing student comprehension in data-related concepts and technologies.
+* Supported the instruction of Data Science and Relational Database courses at the University of Washington Information School.
 
 **Founder/Instructor Founder, Instructor** @ [queer.code();](https://alemaulou.github.io/queercode)<br>
 *2019*
 * Founded and facilitated queer.code();, an 8-week meetup empowering non-CS major LGBTQ+ students with Java and web design fundamentals, fostering an inclusive learning environment at a local LGBTQ+ coffee shop, achieving a 5:1 mentee-to-mentor ratio, and actively collaborating with co-facilitators and mentors.
  
-**Tutor, Workshop Facilitator** @ MESA, Seattle Central College <br>
+**Tutor, Workshop Facilitator** @ [MESA, Seattle Central College](https://seattlecentral.edu/campus-life/student-support-and-services/mesa)<br>
 *2016-2020*
 * Conducted weekly workshops in essential Computer Science topics, enhancing student attendance and retention by 200% YTD, as part of the MESA program supporting BiPOC college students in STEM.
 
