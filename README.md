@@ -2,15 +2,15 @@
 ### Alessandro Lou 🇮🇹 🇨🇳 🇺🇸 🏳️‍🌈
 
 
-✌️ Hello there! I'm Alessandro. I am a Computer Science Instructor, Yoga Instructor and aspiring Software Engineer.
+✌️ Hello there! I'm Alessandro. I am a Computer Science Instructor, Yoga Instructor and aspiring Software Engineer!
 
 🏡 I currently reside in San Francisco, California.
 
-🌱 I work as a Lead CS Instructor @ [Google Code Next](https://codenext.withgoogle.com)! 
+🌱 I work as a Lead CS Instructor @ [Google Code Next](https://codenext.withgoogle.com). 
 
-🚴 Outside of tech and yoga, I enjoy to run, cycle, lift, and climb! 
+🚴 Outside of tech and yoga, I enjoy to run, cycle, lift, and climb. 
 
-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/alessandro-lou/)!
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/alessandro-lou/).
 
 ------
 
