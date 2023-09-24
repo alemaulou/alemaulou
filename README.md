@@ -37,7 +37,7 @@ Combining my passion for empowering individuals with my love for computer scienc
 
 **Computer Science Instructor, Technical Recruiter** @ [Juni Learning](https://junilearning.com/)<br>
 *2020 - 2021*
-* Directed the CS Instructor hiring process end-to-end, leveraging data insights with R to reduce interview cancellations, organized virtual career fairs, initiated a Campus Ambassadors program, spearheaded interviewer team training, and optimized processes by transitioning the application tracking system, all while actively instructing students in Python, Scratch, and JavaScript fundamentals.
+* Directed the CS Instructor hiring process end-to-end, leveraging data insights with R to reduce interview cancellations, organized virtual career fairs, initiated a Campus Ambassadors program, led interviewer team training, and optimized processes by transitioning the application tracking system, all while actively instructing students in Python, Scratch, and JavaScript fundamentals.
 
 **Teaching Assistant** @ [University of Washington Information School](https://ischool.uw.edu/)<br>
 *2019 - 2020*
