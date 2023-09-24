@@ -27,33 +27,33 @@
 Combining my passion for empowering individuals with my love for computer science, I've consistently taken on roles that involve teaching, mentorship, and creating inclusive learning environments. This blend of experiences has fueled my desire to transition into software engineering, where I can continue utilizing technology to make a meaningful impact on people's lives.
 
 **Lead Computer Science Instructor** @ [Google Code Next](https://codenext.withgoogle.com)<br>
-*2021 - Present*
+*(2021 - Present)*
 <br>**Tech stack:** Python, Flask, HTML, CSS, Javascript 
 * Led a comprehensive, highly technical full-stack development program for 3 cohorts (15+ students each), involving curriculum design, classroom management, and hands-on instruction. Standardized and created 20+ essential documents to facilitate collaboration among 50+ volunteers and staff. Refined the master curriculum to suit individual site requirements through feedback loops and optimized materials, and implemented innovative technical assessment tools, enhancing candidate evaluation accuracy with automated cross-site rubrics.
 
 
 **Computer Science Instructor, Technical Interviewer** @ [Girls Who Code](https://www.girlswhocode.com)<br>
-*2019 - 2023*
+*(2019 - 2023)*
 <br>**Tech stack:** Python, HTML, CSS, Javascript, Arduino, Scratch
 * Orchestrated successful hiring of 100+ CS Instructors for the GWC Summer Immersion Program, managed interviews, and effectively led instruction for high school girls in Summer 2019 and virtually in Summer 2020, evaluating proficiency in Scratch, Python, HTML, CSS, Javascript, and witnessing a 60% transition to CS degrees post-graduation.
 
 **Computer Science Instructor, Technical Recruiter** @ [Juni Learning](https://junilearning.com/)<br>
-*2020 - 2021*
+*(2020 - 2021)*
 <br>**Tech stack:** Python, Java, Scratch
 * Directed the CS Instructor hiring process end-to-end, leveraging data insights with R to reduce interview cancellations, organized virtual career fairs, initiated a Campus Ambassadors program, led interviewer team training, and optimized processes by transitioning the application tracking system, all while actively instructing students in Python, Scratch, and JavaScript fundamentals.
 
 **Teaching Assistant** @ [University of Washington Information School](https://ischool.uw.edu/)<br>
-*2019 - 2020*
+*(2019 - 2020)*
 <br>**Tech stack:** R, SQL
 * Supported the instruction of Data Science and Relational Database courses at the University of Washington Information School.
 
 **Founder, Instructor** @ [queer.code();](https://alemaulou.github.io/queercode)<br>
-*2019*
+*(2019)*
 <br>**Tech stack:** HTML, CSS, Javascript, Java
 * Founded and facilitated queer.code();, an 8-week meetup empowering non-CS major LGBTQ+ students with Java and web design fundamentals, fostering an inclusive learning environment at a local LGBTQ+ coffee shop, achieving a 5:1 mentee-to-mentor ratio, and actively collaborating with co-facilitators and mentors.
  
 **Tutor, Workshop Facilitator** @ [MESA, Seattle Central College](https://seattlecentral.edu/campus-life/student-support-and-services/mesa)<br>
-*2016-2020*
+*(2016-2020)*
 <br>**Tech stack:** Python, Java
 * Conducted weekly workshops in essential Computer Science topics, enhancing student attendance and retention by 200% YTD, as part of the MESA program supporting BiPOC college students in STEM.
 
