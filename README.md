@@ -77,7 +77,7 @@ As part of an Android development course, I collaborated within a team, focusing
 <h3 align="center">📚✏️ Sample Curriculum 📊🎓</h4>
 
 ------
-Throughout my extensive experience as a Computer Science Instructor, I've been dedicated to developing comprehensive technical curriculum in various roles. Although I can't share proprietary information, I'm eager to showcase a sample of my work, particularly highlighting a collection of mini-lessons I made using Google Slides and Pear Deck.
+Throughout my extensive experience as a Computer Science Instructor, I've been dedicated to developing comprehensive technical curriculum in various roles. Although I can't share proprietary information, I'm happy to showcase a couple samples mini-lessons I made using Google Slides and Pear Deck.
 
 * [Linked Lists](https://docs.google.com/presentation/d/1XpfXXrCHUQhT8n7LhkB-TPOSynedIpESBQUl4mh0mac/edit?usp=sharing) (***Target Audience:** College students*)<br>
   A mini-lesson on Linked Lists I put together, showcasing my custom illustrative graphics modeling the concept. The lesson involves engaging coding challenges and a live student interaction demo, aiming to foster active participation and a clear grasp of this foundational data structure.
