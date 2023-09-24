@@ -33,8 +33,7 @@ Combining my passion for empowering individuals with my love for computer scienc
 
 
 **Computer Science Instructor, Technical Interviewer** @ [Girls Who Code](https://www.girlswhocode.com)<br>
-*(2019 - 2023)*
-<br>**Tech stack:** Python, HTML, CSS, Javascript, Arduino, Scratch
+*(2019 - 2023)* <br>**Tech stack:** Python, HTML, CSS, Javascript, Arduino, Scratch
 * Orchestrated successful hiring of 100+ CS Instructors for the GWC Summer Immersion Program, managed interviews, and effectively led instruction for high school girls in Summer 2019 and virtually in Summer 2020, evaluating proficiency in Scratch, Python, HTML, CSS, Javascript, and witnessing a 60% transition to CS degrees post-graduation.
 
 **Computer Science Instructor, Technical Recruiter** @ [Juni Learning](https://junilearning.com/)<br>
