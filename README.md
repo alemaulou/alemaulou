@@ -62,7 +62,7 @@ As the engineering lead for my UW Informatics senior capstone project sponsored 
 * [Plant Pharmacy](https://github.com/Plant-Pharmacy/Main) (*Software Development Course Final Project*)<br>
 In a collaborative software development course, I worked on integrating machine learning models using Python, TensorFlow, and Keras. My role involved connecting the ML models, deploying the app, and leading frontend development. Our platform analyzes plant images to provide actionable insights on plant health, promoting sustainable plant care practices for an environmentally conscious community.
 * [Trash Cache](https://github.com/oazeemi/TrashCache) (*Android Dev Course Final Project*)<br>
-As part of an Android development course, I collaborated within a team, focusing on Kotlin to contribute to the development of TrashCache. My role involved aiding in API implementation and working on the Android app's frontend. TrashCache integrates ML models to assess item recyclability through image analysis. We aimed to simplify recycling choices, encourage responsible disposal, and make strides towards a more sustainable future.
+As part of an Android development course, I collaborated within a team, focusing on Kotlin to contribute to the development of Trash Cache. My role involved aiding in API implementation and working on the Android app's frontend. TrashCache integrates ML models to assess item recyclability through image analysis. We aimed to simplify recycling choices, encourage responsible disposal, and make strides towards a more sustainable future.
 
 ------
 
