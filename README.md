@@ -24,7 +24,7 @@
 <h3 align="center">👨‍💻💼 Professional Experience 🌟✨ </h4>
 
 ------
-Combining my passion for empowering individuals with my love for computer science, I've consistently taken on roles that involve teaching, mentorship, and creating inclusive learning environments. This blend of experiences has fueled my desire to transition into software engineering, where I can continue utilizing technology to make a meaningful impact on people's lives.
+Combining my passion for empowering individuals with my love for computer science, I've consistently taken on roles that involve teaching, mentorship, and creating inclusive learning environments. 
 
 **Lead Computer Science Instructor** @ [Google Code Next](https://codenext.withgoogle.com)<br>
 *(2021 - Present)*
