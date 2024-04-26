@@ -6,7 +6,7 @@
 
 🏡 I currently reside in San Francisco, California.
 
-🌱 I work as a Lead CS Instructor @ [Google Code Next](https://codenext.withgoogle.com) via Deloitte Digital! 
+🌱 I work as a Lead CS Instructor @ [Google Code Next](https://codenext.withgoogle.com) 
 
 🚴 Outside of tech and yoga, I enjoy to run, cycle, lift, and climb. 
 
