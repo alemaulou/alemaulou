@@ -26,7 +26,7 @@
 ------
 Combining my passion for empowering individuals with my love for computer science, I've consistently taken on roles that involve teaching, mentorship, and creating inclusive learning environments. 
 
-**Lead Coding Instructor** @ [Google Code Next](https://codenext.withgoogle.com)<br>
+**Lead CS Instructor** @ [Google Code Next](https://codenext.withgoogle.com)<br>
 *(2021 - Present)*
 <br>**Tech stack:** Python, Flask, HTML, CSS, Javascript, Raspberry Pi
 * Led a comprehensive, highly technical full-stack development program for 3 cohorts (15+ students each), involving curriculum design, classroom management, and hands-on instruction. Standardized and created 20+ essential documents to facilitate collaboration among 50+ volunteers and staff. Refined the master curriculum to suit individual site requirements through feedback loops and optimized materials, and implemented innovative technical assessment tools, enhancing candidate evaluation accuracy with automated cross-site rubrics.
