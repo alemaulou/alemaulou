@@ -26,7 +26,7 @@
 ------
 Combining my passion for empowering individuals with my love for computer science, I've consistently taken on roles that involve teaching, mentorship, and creating inclusive learning environments. 
 
-**Lead Computer Science Instructor** @ [Google Code Next](https://codenext.withgoogle.com)<br>
+**Lead Coding Instructor** @ [Google Code Next](https://codenext.withgoogle.com)<br>
 *(2021 - Present)*
 <br>**Tech stack:** Python, Flask, HTML, CSS, Javascript, Raspberry Pi
 * Led a comprehensive, highly technical full-stack development program for 3 cohorts (15+ students each), involving curriculum design, classroom management, and hands-on instruction. Standardized and created 20+ essential documents to facilitate collaboration among 50+ volunteers and staff. Refined the master curriculum to suit individual site requirements through feedback loops and optimized materials, and implemented innovative technical assessment tools, enhancing candidate evaluation accuracy with automated cross-site rubrics.
@@ -34,7 +34,7 @@ Combining my passion for empowering individuals with my love for computer scienc
 
 **Computer Science Instructor, Technical Interviewer** @ [Girls Who Code](https://www.girlswhocode.com)<br>
 *(2019 - 2023)* <br>**Tech stack:** Python, HTML, CSS, Javascript, Arduino, Scratch
-* Successfully hired 100+ CS Instructors for the GWC Summer Immersion Program, managed interviews, and effectively led instruction for high school girls in Summer 2019 and virtually in Summer 2020, evaluating proficiency in Scratch, Python, HTML, CSS, Javascript, and witnessing a 60% transition to CS degrees post-graduation.
+* Taught CS and web fundamentals (Scratch, Python, Arduino, HTML, CSS, JavaScript) across 7 classrooms, impacting over 300 students. Managed the interview process for instructor hiring, evaluating candidates with technical and behavioral questions, and providing feedback for refining hiring rubrics. Successfully hired over 50 Computer Science Instructors.
 
 **Computer Science Instructor, Technical Recruiter** @ [Juni Learning](https://junilearning.com/)<br>
 *(2020 - 2021)*
