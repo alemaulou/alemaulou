@@ -28,8 +28,7 @@ Combining my passion for empowering individuals with my love for computer scienc
 
 **Impact Manager** @ [Google Code Next](https://codenext.withgoogle.com)<br> via Deloitte Digital
 *(2021 - Present)*
-<br>**Tech stack:** Python, Flask, HTML, CSS, Javascript, Raspberry Pi
-* Led a comprehensive, highly technical full-stack development program for 3 cohorts (15+ students each), involving curriculum design, classroom management, and hands-on instruction. Standardized and created 20+ essential documents to facilitate collaboration among 50+ volunteers and staff. Refined the master curriculum to suit individual site requirements through feedback loops and optimized materials, and implemented innovative technical assessment tools, enhancing candidate evaluation accuracy with automated cross-site rubrics.
+* Experienced Impact Manager with a proven track record of success in delivering high-quality technical education to 500+ students. Led the integration of AI/ML into Google Code Next programs, reaching 150+ students through 10+ new curriculum activities. Streamlined instructor hiring and improved curriculum delivery, while fostering a thriving community of 200+ volunteer instructors through mentorship and evaluation programs. Passionate about creating engaging learning experiences and empowering students to succeed.
 
 
 **Computer Science Instructor, Technical Interviewer** @ [Girls Who Code](https://www.girlswhocode.com)<br>
