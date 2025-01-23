@@ -28,7 +28,7 @@ Combining my passion for empowering individuals with my love for computer scienc
 
 **Impact Manager** @ [Google Code Next](https://codenext.withgoogle.com)<br> via Deloitte Digital
 *(2021 - Present)*
-* Experienced Impact Manager with a proven track record of success in delivering high-quality technical education to 500+ students. Led the integration of AI/ML into Google Code Next programs, reaching 150+ students through 10+ new curriculum activities. Streamlined instructor hiring and improved curriculum delivery, while fostering a thriving community of 200+ volunteer instructors through mentorship and evaluation programs. Passionate about creating engaging learning experiences and empowering students to succeed.
+* Experienced Impact Manager with a proven track record of success in delivering high-quality technical education to 500+ students. Led the integration of AI/ML into Google Code Next programs, reaching 150+ students through 10+ new curriculum activities. Streamlined instructor hiring and improved curriculum delivery, while fostering a thriving community of 100+ volunteer instructors through mentorship and evaluation programs. Passionate about creating engaging learning experiences and empowering students to succeed.
 
 
 **Computer Science Instructor, Technical Interviewer** @ [Girls Who Code](https://www.girlswhocode.com)<br>
