@@ -33,12 +33,12 @@ Combining my passion for empowering individuals with my love for computer scienc
 
 **Computer Science Instructor, Technical Interviewer** @ [Girls Who Code](https://www.girlswhocode.com)<br>
 *(2019 - 2023)* <br>**Tech stack:** Python, HTML, CSS, Javascript, Arduino, Scratch
-* Taught CS and web fundamentals (Scratch, Python, Arduino, HTML, CSS, JavaScript) across 7 classrooms, impacting over 300 students. Managed the interview process for instructor hiring, evaluating candidates with technical and behavioral questions, and providing feedback for refining hiring rubrics. Successfully hired over 50 Computer Science Instructors.
+* Experienced in instructing students in a variety of programming languages (Scratch, Python, Arduino, HTML, CSS, JavaScript) across 7 classrooms, impacting over 300 students. Possess strong hiring and interview management skills, successfully leading the recruitment and onboarding of over 100 computer science instructors. Managed the full interview cycle, including technical and behavioral assessments, candidate evaluation, and feedback to refine hiring rubrics.
 
 **Computer Science Instructor, Technical Recruiter** @ [Juni Learning](https://junilearning.com/)<br>
 *(2020 - 2021)*
 <br>**Tech stack:** Python, Java, Scratch
-* Directed the CS Instructor hiring process end-to-end, leveraging data insights with R to reduce interview cancellations, organized virtual career fairs, initiated a Campus Ambassadors program, led interviewer team training, and optimized processes by transitioning the application tracking system, all while actively instructing students in Python, Scratch, and JavaScript fundamentals.
+* Specialized in recruiting and onboarding college-age and recent graduate talent for the CS Instructor hiring pipeline, exceeding monthly hiring targets by an average of 15%. Hired over 500 instructors, with a focus on this demographic. Streamlined recruitment strategies and enhanced selection criteria, resulting in an increase in qualified applicants and a 15% decrease in early turnover. Led a 20+ member interviewer team, improving onboarding efficiency through spearheading training initiatives and refining interview processes. Delivered virtual instruction in Scratch, Python, and Java, emphasizing OOP concepts through individualized weekly sessions, resulting in a 95% student retention.
 
 **Teaching Assistant** @ [University of Washington Information School](https://ischool.uw.edu/)<br>
 *(2019 - 2020)*
