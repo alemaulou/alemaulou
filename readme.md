@@ -1,5 +1,5 @@
 
-### Alessandro Lou 🇮🇹 🇨🇳 🇺🇸 🏳️‍🌈
+### Alessandro Lou 
 
 
 ✌️ Hello there! I'm Alessandro. I am a L&D Specialist and Yoga Instructor. :)  
