@@ -31,11 +31,11 @@ Combining my passion for empowering individuals with my love for computer scienc
 * Experienced L&D Specialist with a proven track record of success in delivering high-quality technical education to 500+ students. Led the integration of AI/ML into Google Code Next programs, reaching 150+ students through 10+ new curriculum activities. Streamlined instructor hiring and improved curriculum delivery, while fostering a thriving community of 100+ volunteer instructors through mentorship and evaluation programs. Passionate about creating engaging learning experiences and empowering students to succeed.
 
 
-**Computer Science Instructor, Technical Interviewer** @ [Girls Who Code](https://www.girlswhocode.com)<br>
+**Lead Technical Instructor/Technical Interviewer** @ [Girls Who Code](https://www.girlswhocode.com)<br>
 *(2019 - 2023)* <br>**Tech stack:** Python, HTML, CSS, Javascript, Arduino, Scratch
 * Experienced in instructing students in a variety of programming languages (Scratch, Python, Arduino, HTML, CSS, JavaScript) across 7 classrooms, impacting over 300 students. Possess strong hiring and interview management skills, successfully leading the recruitment and onboarding of over 100 computer science instructors. Managed the full interview cycle, including technical and behavioral assessments, candidate evaluation, and feedback to refine hiring rubrics.
 
-**Computer Science Instructor, Technical Recruiter** @ [Juni Learning](https://junilearning.com/)<br>
+**Instructor Operations Specialist (Technical Talent Acquisition Manager)r** @ [Juni Learning](https://junilearning.com/)<br>
 *(2020 - 2021)*
 <br>**Tech stack:** Python, Java, Scratch
 * Specialized in recruiting and onboarding college-age and recent graduate talent for the CS Instructor hiring pipeline, exceeding monthly hiring targets by an average of 15%. Hired over 500 instructors, with a focus on this demographic. Streamlined recruitment strategies and enhanced selection criteria, resulting in an increase in qualified applicants and a 15% decrease in early turnover. Led a 20+ member interviewer team, improving onboarding efficiency through spearheading training initiatives and refining interview processes. Delivered virtual instruction in Scratch, Python, and Java, emphasizing OOP concepts through individualized weekly sessions, resulting in a 95% student retention.
