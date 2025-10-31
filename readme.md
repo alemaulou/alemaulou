@@ -2,7 +2,7 @@
 ### Alessandro Lou 
 
 
-✌️ Hello there! I'm Alessandro. I am a L&D Specialist and Yoga Instructor. :)  
+✌️ Hello there! I'm Alessandro. I work in tech and and teach yoga! :)  
 
 🏡 I currently reside in San Francisco, California.
 
